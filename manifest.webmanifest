@@ -1,0 +1,15 @@
+{
+  "name": "线条小狗喝水打卡",
+  "short_name": "喝水打卡",
+  "description": "每天5杯，每杯500ml；点击杯子打卡，并在月历中复盘。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffaf0",
+  "theme_color": "#7fd5ff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
